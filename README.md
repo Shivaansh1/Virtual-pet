@@ -1,1 +1,2 @@
-# Virtual-pet
+# synchronousBallMovement
+Ball moving synchronously
